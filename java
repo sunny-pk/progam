@@ -43,16 +43,8 @@ class Person {
         }
  
     }
+
  
 }
-public void setyear(int year) {
 
-    if (year > 0 ) {
 
-       this.year = year;
-
-} else {
-
-    System.out.println("Year must be positive.")
-
-     }
